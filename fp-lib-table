@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LTC2954CTS8-2")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC2954CTS8-2_TRPBF/LTC2954CTS8-2.pretty")(options "")(descr ""))
+  (lib (name "LTC2950ITS8-2")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC2950ITS8-2_TRMPBF/LTC2950ITS8-2.pretty")(options "")(descr ""))
+  (lib (name "LTC2951ITS8-1")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC2951ITS8-1/LTC2951ITS8-1.pretty")(options "")(descr ""))
+  (lib (name "LTC2955CTS8-2")(type "KiCad")(uri "${KIPRJMOD}/lib/LTC2955CTS8-2_TRPBF/LTC2955CTS8-2.pretty")(options "")(descr ""))
+)
