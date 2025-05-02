@@ -2510,13 +2510,12 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VIN"
-			(at 134.62 27.9399 0)
+		(property "Value" "VIN_2951"
+			(at 132.08 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -2935,13 +2934,12 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VIN"
-			(at 255.27 55.8799 0)
+		(property "Value" "VIN_2951"
+			(at 252.73 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -3224,13 +3222,12 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPU"
-			(at 184.15 30.4799 0)
+		(property "Value" "VPU_2951"
+			(at 181.61 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -4259,13 +4256,12 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPU"
-			(at 227.33 55.8799 0)
+		(property "Value" "VPU_2951"
+			(at 224.79 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""

@@ -227,7 +227,9 @@
     {
       "description": "fabrications",
       "id": "89cb387f-225f-4965-9038-211d49abbb05",
-      "only": [],
+      "only": [
+        "263129cb-d4d2-4538-915f-49a1cc16cf78"
+      ],
       "settings": {
         "output_path": "push-button-controller-fabs"
       },

@@ -3213,7 +3213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPU"
+		(property "Value" "VPU_2950"
 			(at 224.79 59.6899 0)
 			(effects
 				(font
@@ -3643,7 +3643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VIN"
+		(property "Value" "VIN_2950"
 			(at 252.73 59.6899 0)
 			(effects
 				(font
@@ -4539,7 +4539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VIN"
+		(property "Value" "VIN_2950"
 			(at 133.35 52.0699 0)
 			(effects
 				(font
@@ -4752,7 +4752,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0a030de-6c91-4b24-ad59-4cf8089837b4")
 		(property "Reference" "R1"
-			(at 90.17 71.12 90)
+			(at 90.17 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4760,7 +4760,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 90.17 73.66 90)
+			(at 90.17 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4795,7 +4795,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C23186"
-			(at 90.17 77.47 0)
+			(at 90.17 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5271,7 +5271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPU"
+		(property "Value" "VPU_2950"
 			(at 182.88 64.7699 0)
 			(effects
 				(font
